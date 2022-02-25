@@ -92,11 +92,11 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
+### imagen pequeña
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+### imagen graaande
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
